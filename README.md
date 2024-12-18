@@ -17,6 +17,8 @@ Este es un generador de contraseñas con una interfaz gráfica simple, desarroll
 
    git clone https://github.com/Notbazz12/Gestor-contrase-as.git
    cd password-generator
-
-    python generador_contraseñas_gui.py
+   
+   python gestor_contraseñas.py
+   
+   python generador_contraseñas_gui.py
 
